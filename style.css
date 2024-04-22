@@ -399,6 +399,10 @@ section .projet h3{
   margin: 1%;
 }
 
+.LEG{
+  background-color: #cfcfcf;
+}
+
 .liens{
   display: inline-flex;
   justify-content: space-evenly;
@@ -517,7 +521,6 @@ section .projet h3{
       mask-repeat: space;
       background-repeat: no-repeat;
       height: 100vw;
-      width: 20vw;
       background-color: transparent;
       margin: 0vh;
     }
