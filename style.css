@@ -388,6 +388,17 @@ section .projet h3{
   margin: 1%;
 }
 
+.image-G{
+  background-image: url(image/ImageDM.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: flex;
+  background-position: center;
+  height: 100vh;
+  width: 79vw;
+  margin: 1%;
+}
+
 .liens{
   display: inline-flex;
   justify-content: space-evenly;
