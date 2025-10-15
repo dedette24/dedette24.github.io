@@ -284,13 +284,14 @@ p{
   background-color: rgb(0, 0, 0);
   color: black;
   align-items: center;
+  justify-content: center;
   transition: all 0.5s;
 }
 
 .go-to-top:hover .svgIcon {
   /* width: 20px; */
-  transition-duration: 0.3s;
-  transform: translatey(-10px);
+  transition-duration: 0.2s;
+  transform: translatey(-7px);
 }
 
 /* Bouton du CV */
